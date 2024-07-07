@@ -8,9 +8,7 @@ package {
 }
 
 android_app {
-    name: "Glimpse",
-
-    defaults: ["aapt_version_code_defaults"],
+    name: "Gallery2",
 
     srcs: ["src/main/java/**/*.kt"],
     resource_dirs: ["src/main/res"],
